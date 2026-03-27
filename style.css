@@ -3070,3 +3070,10 @@ body {
   position: relative;   /* ← ADD THIS */
   z-index: 1; 
 }
+
+.ftr-social {
+  pointer-events: auto;
+  cursor: pointer;
+  position: relative;
+  z-index: 10;
+}
